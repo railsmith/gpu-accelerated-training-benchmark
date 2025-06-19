@@ -1,0 +1,5 @@
+[Device=cuda] Epoch 1/5: train_acc=0.534, val_acc=0.626, time=45.4s
+[Device=cuda] Epoch 2/5: train_acc=0.689, val_acc=0.676, time=43.6s
+[Device=cuda] Epoch 3/5: train_acc=0.771, val_acc=0.703, time=44.0s
+[Device=cuda] Epoch 4/5: train_acc=0.846, val_acc=0.700, time=44.2s
+[Device=cuda] Epoch 5/5: train_acc=0.914, val_acc=0.699, time=44.0s

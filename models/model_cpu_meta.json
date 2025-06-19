@@ -1,0 +1,8 @@
+{
+  "device": "cpu",
+  "avg_epoch_time_sec": 141.08976278305053,
+  "final_val_acc": 0.7008,
+  "epochs": 5,
+  "batch_size": 64,
+  "lr": 0.001
+}

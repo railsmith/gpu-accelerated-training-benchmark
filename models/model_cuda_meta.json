@@ -1,0 +1,8 @@
+{
+  "device": "cuda",
+  "avg_epoch_time_sec": 44.22994747161865,
+  "final_val_acc": 0.6987,
+  "epochs": 5,
+  "batch_size": 64,
+  "lr": 0.001
+}

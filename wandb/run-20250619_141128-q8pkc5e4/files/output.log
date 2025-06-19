@@ -1,0 +1,5 @@
+[Device=cpu] Epoch 1/5: train_acc=0.549, val_acc=0.625, time=122.6s
+[Device=cpu] Epoch 2/5: train_acc=0.700, val_acc=0.693, time=187.8s
+[Device=cpu] Epoch 3/5: train_acc=0.780, val_acc=0.711, time=164.4s
+[Device=cpu] Epoch 4/5: train_acc=0.856, val_acc=0.711, time=115.7s
+[Device=cpu] Epoch 5/5: train_acc=0.917, val_acc=0.701, time=114.9s
